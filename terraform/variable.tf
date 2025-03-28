@@ -23,7 +23,7 @@ variable "instance_type" {
 variable "alert_email_id" {
   description = "Email id to send alerts to "
   type        = string
-  default     = "you-name@some-domain.com"
+  default     = "f44056013@gs.ncku.edu.tw"
 }
 
 ## Your repository url
